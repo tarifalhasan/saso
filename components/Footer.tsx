@@ -78,7 +78,7 @@ const Footer = () => {
           <li>
             <Link
               className=" h-[128px]  transition-all duration-700 bg-skin-blue-600 py-4 flex items-center justify-center  w-[128px] flex-grow"
-              href={"/"}
+              href={"https://t.me/sosa_portal"}
               target="_blank"
             >
               <span className=" flex flex-col items-center justify-center space-y-4">
@@ -98,7 +98,7 @@ const Footer = () => {
           <li>
             <Link
               className=" h-[128px]  transition-all duration-700 bg-skin-blue-600 py-4 flex items-center justify-center  w-[128px] flex-grow"
-              href={"/"}
+              href={"https://twitter.com/StoryOfSatoshi"}
               target="_blank"
             >
               <span className=" flex flex-col items-center justify-center space-y-4">

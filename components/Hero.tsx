@@ -78,7 +78,7 @@ const Hero = () => {
               <li>
                 <Link
                   className="  transition-all duration-700  hover:shadow-sm block bg-white px-3 py-3"
-                  href={"/"}
+                  href={"https://t.me/sosa_portal"}
                   target="_blank"
                 >
                   <Image
@@ -93,7 +93,7 @@ const Hero = () => {
               <li>
                 <Link
                   className="  transition-all duration-700  hover:shadow-sm block bg-white px-3 py-3"
-                  href={"/"}
+                  href={"https://twitter.com/StoryOfSatoshi"}
                   target="_blank"
                 >
                   <Image

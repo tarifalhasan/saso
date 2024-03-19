@@ -5,8 +5,8 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   metadataBase: new URL("http://sosa.green/"),
   title: {
-    default: "SOSA",
-    template: `%s | SOSA`,
+    default: "$SOSA",
+    template: `%s | $SOSA`,
   },
   description:
     "$SOSA, the meme coin with a big mission: to free Satoshi and his dream. $SOSA isn't just any coin; ",
