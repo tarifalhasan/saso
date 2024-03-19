@@ -88,12 +88,14 @@ const Assemble = () => {
         <div className=" basis-full  space-y-2 lg:-space-y-6 xl:-space-y-8 lg:basis-1/2">
           <div className=" ">
             <div>
-              <h4 className=" leading-[110%] tracking-[1.44px] text-5xl lg:text-5xl xl:text-6xl  text-skin-gray-900 font-n27 font-normal">
-                <span className="  ml-[10%]"> $SOSA: </span>
-                <span className=" flex  gap-4 ">Not Just a Meme Coin,</span>
+              <h4 className=" leading-[110%] tracking-[1.44px] text-4xl lg:text-5xl xl:text-6xl  text-skin-gray-900 font-n27 font-normal">
+                <span className="  lg:ml-[10%]"> $SOSA: </span>
+                <span className="  ml-[10%] lg:ml-0 flex  gap-4 ">
+                  Not Just a Meme Coin,
+                </span>
               </h4>
             </div>
-            <div className=" lg:pt-10   space-y-6  block  mx-auto max-w-[301px] ">
+            <div className=" pt-3 lg:pt-10   space-y-4 lg:space-y-6  block  mx-auto max-w-[301px] ">
               <h4 className=" text-xl xl:text-2xl font-normal font-geliat">
                 a Declaration of War on Crypto&apos;s Centralization.
               </h4>

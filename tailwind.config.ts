@@ -44,6 +44,8 @@ const config: Config = {
           r3r3r3r3: "#0151AD",
           "gray-800": "#666",
           "gray-900": "#292929",
+          "blue-600": "#039BE5",
+          "gray-200": "#E5E4E4",
         },
       },
       fontFamily: {
