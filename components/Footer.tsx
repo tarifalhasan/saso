@@ -161,7 +161,7 @@ const Footer = () => {
         <p className=" text-skin-gray-900 font-normal text-xs 2xl:text-sm font-geliat">
           © 2024 $SOSA
         </p>
-        <ul className="  inline-flex items-center gap-8">
+        {/* <ul className="  inline-flex items-center gap-8">
           <li>
             <Link
               href={"/"}
@@ -178,8 +178,8 @@ const Footer = () => {
               Privacy Policy
             </Link>
           </li>
-        </ul>
-        <p></p>
+        </ul> */}
+
         <div className="  fixed   z-50  bottom-[44px]  right-5 ">
           {showScrollButton && (
             <button

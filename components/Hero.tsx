@@ -11,7 +11,7 @@ const Hero = () => {
       </header>
       <div className="  container flex flex-col lg:flex-row  lg:items-center gap-10">
         <div className=" order-last lg:order-first basis-full lg:basis-1/2">
-          <div className="  lg:max-w-[380px] xl:max-w-[451px]">
+          <div className=" max-w-52   lg:max-w-[380px] xl:max-w-[451px]">
             <Image
               width={450}
               height={550}
@@ -178,7 +178,7 @@ const Hero = () => {
           backgroundImage: `url("/shape.png")`,
           backgroundSize: "100%",
         }}
-        className=" w-full relative z-30  lg:-mt-[5rem] xl:-mt-[6rem]  overflow-hidden pb-[10%] 2xl:pb-[8%] bg-no-repeat "
+        className=" hidden lg:block w-full relative z-30  lg:-mt-[5rem] xl:-mt-[6rem]  overflow-hidden pb-[10%] 2xl:pb-[8%] bg-no-repeat "
       ></div>
     </section>
   );

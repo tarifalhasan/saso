@@ -49,7 +49,7 @@ const Assemble = () => {
           <div className=" lg:pt-[25%]">
             <div>
               <h4 className=" leading-[110%] tracking-[1.44px] text-5xl lg:text-5xl xl:text-6xl  text-skin-gray-900 font-n27 font-normal">
-                <span className=" "> $SOSA: </span>
+                <span className=" "> $SOSA </span>
                 <span className=" ml-[10%]  flex  gap-4 ">
                   Crack the Matrix
                 </span>
@@ -89,7 +89,7 @@ const Assemble = () => {
           <div className=" ">
             <div>
               <h4 className=" leading-[110%] tracking-[1.44px] text-4xl lg:text-5xl xl:text-6xl  text-skin-gray-900 font-n27 font-normal">
-                <span className="  lg:ml-[10%]"> $SOSA: </span>
+                <span className="  lg:ml-[10%]"> $SOSA</span>
                 <span className="  ml-[10%] lg:ml-0 flex  gap-4 ">
                   Not Just a Meme Coin,
                 </span>

@@ -4,10 +4,19 @@ export const Geliat = localFont({
   src: [
     {
       path: "./font/Geliat-ExtraLight.otf",
+      weight: "300",
+      style: "normal",
+    },
+    {
+      path: "./font/Geliat-Regular.ttf",
       weight: "400",
       style: "normal",
     },
-
+    {
+      path: "./font/Geliat-Medium.ttf",
+      weight: "500",
+      style: "normal",
+    },
     {
       path: "./font/Geliat-ExtraBold.otf",
       weight: "700",
