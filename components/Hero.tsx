@@ -108,7 +108,9 @@ const Hero = () => {
               <li>
                 <Link
                   className="  transition-all duration-700  hover:shadow-sm block bg-white px-3 py-3"
-                  href={"/"}
+                  href={
+                    "https://www.dextools.io/app/en/solana/pair-explorer/YYTaffG5QLM9T8sQTPKdBFmYUetLCo2toLmENCqviPc?t=1711088576264"
+                  }
                   target="_blank"
                 >
                   <Image
@@ -123,7 +125,9 @@ const Hero = () => {
               <li>
                 <Link
                   className="  transition-all duration-700  hover:shadow-sm block bg-white px-3 py-3"
-                  href={"/"}
+                  href={
+                    "https://dexscreener.com/solana/yytaffg5qlm9t8sqtpkdbfmyuetlco2tolmencqvipc"
+                  }
                   target="_blank"
                 >
                   <Image

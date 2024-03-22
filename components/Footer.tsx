@@ -118,7 +118,9 @@ const Footer = () => {
           <li>
             <Link
               className=" h-[128px]  transition-all duration-700 bg-[#00B8D8] py-4 flex items-center justify-center  w-[128px] flex-grow"
-              href={"/"}
+              href={
+                "https://www.dextools.io/app/en/solana/pair-explorer/YYTaffG5QLM9T8sQTPKdBFmYUetLCo2toLmENCqviPc?t=1711088576264"
+              }
               target="_blank"
             >
               <span className=" flex flex-col items-center justify-center space-y-4">
@@ -138,7 +140,9 @@ const Footer = () => {
           <li>
             <Link
               className=" h-[128px]  transition-all duration-700 bg-[#000] py-4 flex items-center justify-center  w-[128px] flex-grow"
-              href={"/"}
+              href={
+                "https://dexscreener.com/solana/yytaffg5qlm9t8sqtpkdbfmyuetlco2tolmencqvipc"
+              }
               target="_blank"
             >
               <span className=" flex flex-col items-center justify-center space-y-4">
