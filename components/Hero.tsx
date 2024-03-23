@@ -169,7 +169,7 @@ const Hero = () => {
               Free Your Coin, Free Your Mind.
             </p>
             <div className=" py-5 ">
-              <p className=" text-sm lg:text-xl font-n27 font-bold text-skin-accent">
+              <p className=" text-right text-sm lg:text-xl font-n27 font-bold text-skin-accent">
                 CA:E7ifRrWiGV3RVLnfw6jUxs6sd9rAST9UXgBKP1UznMjs
               </p>
             </div>
