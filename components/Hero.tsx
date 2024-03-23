@@ -168,6 +168,11 @@ const Hero = () => {
             <p className=" text-base text-skin-gray-800 font-normal text-right  lg:max-w-[80%]">
               Free Your Coin, Free Your Mind.
             </p>
+            <div className=" py-5 ">
+              <p className=" text-sm lg:text-xl font-n27 font-bold text-skin-accent">
+                CA:E7ifRrWiGV3RVLnfw6jUxs6sd9rAST9UXgBKP1UznMjs
+              </p>
+            </div>
           </div>
         </div>
         <div className=" basis-full lg:basis-1/2">
