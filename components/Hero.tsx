@@ -10,7 +10,7 @@ const Hero = () => {
         </Link>
       </header>
       <div className="  container flex flex-col lg:flex-row  lg:items-center gap-10">
-        <div className=" order-last lg:order-first basis-full  lg:basis-1/2">
+        <div className=" mt-[47px] order-last lg:order-first basis-full  lg:basis-1/2">
           <div className=" max-w-52   lg:max-w-[380px] xl:max-w-[451px]">
             <Image
               width={450}
