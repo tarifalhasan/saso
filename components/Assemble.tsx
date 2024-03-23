@@ -30,6 +30,11 @@ const Assemble = () => {
             <p className=" text-base font-normal text-skin-gray-800 font-geliat">
               Break the Matrix, Free the Future!
             </p>
+            <div className=" pt-[4rem] lg:pt-[6rem]">
+              <p className=" text-sm lg:text-xl font-n27 font-bold text-skin-accent">
+                CA:E7ifRrWiGV3RVLnfw6jUxs6sd9rAST9UXgBKP1UznMjs
+              </p>
+            </div>
           </div>
         </div>
       </div>
@@ -62,6 +67,11 @@ const Assemble = () => {
               <p className=" text-base font-normal text-skin-gray-800 font-geliat">
                 Satoshi Codes Our Escape—Together, We Liberate.
               </p>
+              <div className=" pt-[2rem] lg:pt-[4rem]">
+                <p className=" text-xs lg:text-xl font-n27 font-bold text-skin-accent">
+                  CA:E7ifRrWiGV3RVLnfw6jUxs6sd9rAST9UXgBKP1UznMjs
+                </p>
+              </div>
             </div>
           </div>
         </div>

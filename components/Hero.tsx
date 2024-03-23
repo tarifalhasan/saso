@@ -10,7 +10,7 @@ const Hero = () => {
         </Link>
       </header>
       <div className="  container flex flex-col lg:flex-row  lg:items-center gap-10">
-        <div className=" order-last lg:order-first basis-full lg:basis-1/2">
+        <div className=" order-last lg:order-first basis-full  lg:basis-1/2">
           <div className=" max-w-52   lg:max-w-[380px] xl:max-w-[451px]">
             <Image
               width={450}
@@ -22,7 +22,7 @@ const Hero = () => {
           </div>
         </div>
         <div className=" basis-full  space-y-2 lg:-space-y-4 xl:-space-y-8 lg:basis-1/2">
-          <div>
+          <div className="  relative">
             <h4 className=" leading-[120%] tracking-[1.44px] text-3xl xl:text-5xl text-skin-r3r3r3r3 font-n27 font-normal">
               The Story
               <span className="  flex  gap-4 ">
@@ -59,9 +59,14 @@ const Hero = () => {
                 Of Satoshi
               </span>
             </h4>
+            <div className=" py-5 ">
+              <p className=" text-sm lg:text-xl font-n27 font-bold text-skin-accent">
+                CA:E7ifRrWiGV3RVLnfw6jUxs6sd9rAST9UXgBKP1UznMjs
+              </p>
+            </div>
           </div>
           <div className=" lg:-ml-[18%]">
-            <h2 className=" text-[4rem] lg:text-[5rem] xl:text-[8.75rem]   font-pilat font-bold text-skin-accent">
+            <h2 className=" text-[4rem] lg:text-[5rem] 2xl:text-[8.75rem]   font-pilat font-bold text-skin-accent">
               $SOSA
             </h2>
           </div>
